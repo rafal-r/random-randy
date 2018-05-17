@@ -1,0 +1,22 @@
+{
+  "name": "random-randy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafal-r/random-randy.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "airr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafal-r/random-randy/issues"
+  },
+  "homepage": "https://github.com/rafal-r/random-randy#readme"
+}
