@@ -1,3 +1,3 @@
 export default function RandomRandy() {
-    return Math.random();
+    return Math.random() + " " + "rand";
 }
